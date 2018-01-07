@@ -1,3 +1,5 @@
+This branch is for the tiny4412 SPL including lowlevel init, ease to porting the furture version of uboot
+
 #
 # (C) Copyright 2000 - 2009
 # Wolfgang Denk, DENX Software Engineering, wd@denx.de.
